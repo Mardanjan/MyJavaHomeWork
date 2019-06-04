@@ -1,3 +1,5 @@
+//这是服务器主类，将收到的请求传给线程去处理
+
 package demo.ServerFinalVersion;
 import java.io.*;
 import java.net.*;
